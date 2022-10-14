@@ -1,0 +1,216 @@
+.line-div6,
+.rectangle-div27 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.line-div6 {
+  top: 108px;
+  left: -0.5px;
+  border-top: 1px solid var(--white);
+  box-sizing: border-box;
+  width: 1441px;
+  height: 1px;
+}
+.rectangle-div27 {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  width: 360px;
+  height: 69px;
+}
+.vector-icon6 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 23.19%;
+  right: 63.33%;
+  bottom: 42.03%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.home-div6 {
+  position: absolute;
+  top: 19px;
+  left: 144px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.home-nav-button6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 0;
+  width: 360px;
+  height: 69px;
+}
+.scan-b-icon {
+  position: absolute;
+  top: 23px;
+  left: 83px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.scanner-b {
+  position: absolute;
+  top: 19px;
+  left: 115px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.33px;
+  display: inline-block;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+}
+.scanner-nav-button6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 360px;
+  width: 360px;
+  height: 69px;
+}
+.chat-w-icon1 {
+  position: absolute;
+  top: 16px;
+  left: 83px;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.chat-room-div1 {
+  position: absolute;
+  top: 19px;
+  left: 114px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.chatroom-nav-button6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 720px;
+  width: 360px;
+  height: 69px;
+}
+.profile-w-icon5 {
+  position: absolute;
+  height: 34.78%;
+  width: 6.67%;
+  top: 30.43%;
+  right: 63.61%;
+  bottom: 34.78%;
+  left: 29.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.profile-div6 {
+  position: absolute;
+  top: 19px;
+  left: 142px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.33px;
+  font-family: var(--font-comfortaa);
+  color: var(--cards-2-main);
+  text-align: center;
+  display: inline-block;
+}
+.image-16-button,
+.image-17-button,
+.profile-nav-button6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 109px;
+  left: 1080px;
+  width: 360px;
+  height: 69px;
+}
+.image-16-button,
+.image-17-button {
+  top: 295px;
+  left: 795px;
+  width: 64.52px;
+  height: 50px;
+  background-image: url(../../public/image16@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.image-17-button {
+  top: 301px;
+  left: 548px;
+  width: 50px;
+  background-image: url(../../public/image17@3x.png);
+}
+.choose-any-method-of-scanning {
+  position: absolute;
+  top: 405px;
+  left: 455px;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.baby-got-rash6 {
+  position: absolute;
+  top: 0;
+  left: 53px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 396px;
+  height: 183px;
+}
+.group-icon6,
+.logo-div6 {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 53px;
+  height: 39px;
+}
+.logo-div6 {
+  top: -28px;
+  left: 496px;
+  width: 449px;
+  height: 183px;
+  text-align: center;
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-rhodium-libre);
+}
+.scanner-div6 {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 32px;
+  color: var(--cards-2-main);
+  font-family: var(--font-roboto);
+}
